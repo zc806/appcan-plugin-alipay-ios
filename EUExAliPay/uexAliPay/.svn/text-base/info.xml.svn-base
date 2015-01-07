@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexAliPay" version="3.0.3" build="3">
+        <info>3:修复公钥为空时的崩溃问题</info>
+        <build>2:修复支付完成或支付取消后退出当前页面的崩溃问题</build>
+        <build>1:notifyURL改为可选参数</build>
+        <build>0:支付宝快捷支付</build>
+    </plugin>
+</uexplugins>
+
